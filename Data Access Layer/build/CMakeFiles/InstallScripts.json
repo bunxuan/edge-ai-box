@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jy/Work/xv6-riscv/edge-ai-box/main/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

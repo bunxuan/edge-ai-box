@@ -1,0 +1,3 @@
+/home/jy/Work/xv6-riscv/edge-ai-box/main/build/CMakeFiles/edge_ai_box_data_access.dir
+/home/jy/Work/xv6-riscv/edge-ai-box/main/build/CMakeFiles/edit_cache.dir
+/home/jy/Work/xv6-riscv/edge-ai-box/main/build/CMakeFiles/rebuild_cache.dir
